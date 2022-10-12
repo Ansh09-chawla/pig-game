@@ -1,5 +1,6 @@
 # pig-game
 
+https://ansh09-chawla.github.io/pig-game/
 
 In this game, the default player is set to be player 1,
 the player rolls the dice till he decides to hold or he/she gets 1 on the dice,
